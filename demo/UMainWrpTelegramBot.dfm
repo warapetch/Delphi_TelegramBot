@@ -94,7 +94,7 @@ object FrmMainWrpTelegramBot: TFrmMainWrpTelegramBot
     Top = 7
     Width = 389
     Height = 29
-    Text = '7903367441:AAFC3BZdCYP9tz5VvXSviaP1EUSb1BcLo-k'
+    Text = ''
     PasswordChar = 'x'
     TabOrder = 0
   end
