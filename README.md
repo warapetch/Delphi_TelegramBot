@@ -8,6 +8,16 @@ Delphi Component Telegram Bot \
 
 ---
 
-วิดีโอ ตัวอย่างการใช้งาน
+## เนื้อหา + คลิป บน ยูทูป
+🔷 วิดีโอ
+📌 วิดีโอ แนะนำคอมโพเนนท์ และ ตัวอย่างการใช้งาน <br>
 
-https://www.youtube.com/watch?v=FT2vRvUJiGM
+
+[![cover](http://img.youtube.com/vi/FT2vRvUJiGM/0.jpg)](http://www.youtube.com/watch?v=FT2vRvUJiGM "Click to Play Video")
+
+
+🔷 FaceBook  \
+https://www.facebook.com/born2dev
+
+🔷 YouTube  \
+https://www.youtube.com/c/HowToCodeDelphi
