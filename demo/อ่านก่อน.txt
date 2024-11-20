@@ -1,0 +1,9 @@
+คอมโพเนนท์ที่ เกี่ยวข้อง
+
+1. Raize Components 6.2.3 หรือ  KonopkaControls-7.0
+2. JSONTreeView [ เวอร์ชั่นล่าสุด ] ทำให้มันแสดง เองนะครับ
+ถ้าไม่มี ใช้ demo2
+
+
+1. ติดตั้ง Component TWrpTelegramBot ก่อนนะครับ
+2. Search Path ให้กับโปรเจค ด้วยว่า โค้ด Component อยู่ที่ไหน
