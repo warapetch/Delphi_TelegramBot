@@ -6,9 +6,13 @@
 1. ในไฟล์ของคอมโพเนนท์ อ้างถึง CustHeader ไม่มี !!
 แนวทางการแก้ไขปัญหา
 คือ ใส่ // เพื่อคอมเมนท์  (หรือจะใช้ TNetHeaders) เลือกอย่างใด อย่างหนึ่ง
+// add
+custHeader := [TNetHeader.Create('Content-Type', 'application/json')];
 ```
 
-![image](https://github.com/user-attachments/assets/a4b7a5f1-a0cd-4d9a-a4ef-ca7624510220)
+
+![image](https://github.com/user-attachments/assets/59e6df68-a88e-43f4-a59c-bc91328c6d2c)
+
 
 
 ```
